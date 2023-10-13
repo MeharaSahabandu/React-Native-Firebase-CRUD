@@ -3,3 +3,4 @@
 Basic React Native CRUD operations with firebase
 
 install firebase - npm install firebase
+run - npm start
